@@ -32,8 +32,9 @@ A comprehensive guide for JDBC database programming fundamentals, connection man
 Each section includes practical, well-commented code examples demonstrating implementation and best practices for database programming.
 
 ## Learning Path
-1. Start with Basics for core database concepts
-2. Move to Advanced for performance and optimization
+1. Start with JDBCElements for core concepts
+2. Move to JDBCBasics for database fundamentals
+3. Advance to AdvancedJDBC for performance and optimization
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
